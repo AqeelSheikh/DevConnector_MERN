@@ -28,7 +28,7 @@ function App() {
 
   return (
     <Provider store={store}>
-    <Router>
+    <Router basename="/MERN_DevConnector">
       <Navbar />
       <Routes>
         <Route path="/" element={<Landing />} />
