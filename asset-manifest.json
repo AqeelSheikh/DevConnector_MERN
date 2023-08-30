@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DevConnector_MERN/static/css/main.7cb86ae8.css",
+    "main.js": "/DevConnector_MERN/static/js/main.ac77a5ea.js",
+    "static/media/showcase.jpg": "/DevConnector_MERN/static/media/showcase.33c7a31be966664a6454.jpg",
+    "static/media/spin.gif": "/DevConnector_MERN/static/media/spin.ce09e4a209cd3c32801d.gif",
+    "index.html": "/DevConnector_MERN/index.html",
+    "main.7cb86ae8.css.map": "/DevConnector_MERN/static/css/main.7cb86ae8.css.map",
+    "main.ac77a5ea.js.map": "/DevConnector_MERN/static/js/main.ac77a5ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb86ae8.css",
+    "static/js/main.ac77a5ea.js"
+  ]
+}
